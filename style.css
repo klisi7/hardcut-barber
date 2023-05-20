@@ -1411,4 +1411,8 @@ form input{
     .succes_modal .succes{
         margin: 30px;
     }
+
+    #career_modal{
+        width: 80vw;
+    }
 }
