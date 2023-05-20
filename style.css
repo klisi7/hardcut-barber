@@ -1163,6 +1163,7 @@ form input{
 
         #modal{
             width: 50vw;
+            height: 50vh;
         }
 
         #modal input{
