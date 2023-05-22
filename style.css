@@ -1040,6 +1040,7 @@ form input{
     border-radius: 20px;
     cursor: pointer;
     color: #fff;
+    border: none;
 }
 
 .lemond_megse_btn{
